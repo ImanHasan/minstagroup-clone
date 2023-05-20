@@ -5,6 +5,7 @@ import 'firebase/compat/storage'
 import { initializeApp } from "firebase/app"
 import { getAuth, GoogleAuthProvider } from "firebase/auth"
 
+
 const firebaseConfig = {
     apiKey: "AIzaSyC92r8nV9v5jjQDh7i5bQm8qj24j0eBty4",
     authDomain: "minstagroup-clone.firebaseapp.com",
