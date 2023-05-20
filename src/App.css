@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+}
+
+.app {
+  background-color: #fafafa;
+
+}
+
+.app_header {
+  background-color: white;
+  object-fit: contain;
+  padding: 20px;
+  border-bottom: 1px solid lightgray;
+}
+
+.app_header h1 {
+  font-family: 'Pacifico', cursive;
+  font-size: 20px;
+  font-weight: 200;
+}
+
+.app_signup {
+  display: flex;
+  flex-direction: column;
+}
