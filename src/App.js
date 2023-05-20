@@ -188,7 +188,7 @@ function App() {
       }
       
      <ImageUpload /> 
-     <h2>kjbhjdghjv</h2>
+     <h2>kjbhjdghjvgit</h2><p>bvhvghcb bn</p>
 
     </div>
   );
